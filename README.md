@@ -1,9 +1,8 @@
-# LetCode Solutions — @aryanpuranik
+# LeetCode Solutions — @aryanpuranik
 
 
 ---
 
----
 
 ## Repository structure
 
